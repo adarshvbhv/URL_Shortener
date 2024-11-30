@@ -13,7 +13,7 @@ Before running the service, ensure you have the following installed:
 
 ### Set Up the Backend
 
-1. **Navigate to the main directory (where `app.py` is located)**:
+1. **Navigate to the main directory (where `app.py` is located)(Ensure you are at correct location otherwise it may show error)**:
     ```bash
     cd URL_Shortener  # Replace with your actual repository name
     ```
