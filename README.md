@@ -53,3 +53,7 @@ This project is a URL Shortener service that allows users to shorten long URLs w
 - **User Authentication**: Adding user accounts for tracking individual user URLs and access counts.
 - **Analytics Dashboard**: Creating an analytics dashboard to visualize access counts and trends over time.
 
+![Screenshot 2024-11-30 223628](https://github.com/user-attachments/assets/c6c8f211-6592-4ded-9710-edca3a3dcef2)
+![Screenshot 2024-11-30 223835](https://github.com/user-attachments/assets/e8d2944b-69a9-48db-a73f-def6951d8805)
+![Screenshot 2024-11-30 235501](https://github.com/user-attachments/assets/a3b83b0d-7d81-4a47-ac04-3e4a470c1f5d)
+![Screenshot 2024-11-30 223508](https://github.com/user-attachments/assets/f4add54f-dc69-4182-9e6a-34e62c96e75c)
